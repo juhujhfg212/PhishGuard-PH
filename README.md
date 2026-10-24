@@ -96,3 +96,9 @@ GCash, Maya, BDO, BPI, Metrobank, Shopee, Lazada, Grab, Globe, Smart, PayPal, Fa
 ```bash
 git clone https://github.com/juhujhfg212/PhishGuard-PH.git
 cd PhishGuard-PH
+
+ Original Source (UCI Repository)
+
+The dataset comes from the UCI Machine Learning Repository:
+
+Link: archive.ics.uci.edu/dataset/327/phishing+websites
