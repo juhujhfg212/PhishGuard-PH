@@ -13,6 +13,7 @@ PhishGuard PH is an offline phishing URL detection tool designed to protect Fili
 
 ---
 
+
 ## 🎯 Problem Statement
 
 The Philippines is one of the most targeted countries in Southeast Asia for phishing attacks. With the widespread adoption of GCash, Maya, and online banking, Filipino users are frequently exposed to fraudulent links via SMS, email, and social media. Many users lack the technical knowledge to identify malicious URLs, leading to financial loss and data theft. PhishGuard PH addresses this by providing a simple, offline tool that instantly evaluates URL safety.
@@ -97,8 +98,5 @@ GCash, Maya, BDO, BPI, Metrobank, Shopee, Lazada, Grab, Globe, Smart, PayPal, Fa
 git clone https://github.com/juhujhfg212/PhishGuard-PH.git
 cd PhishGuard-PH
 
- Original Source (UCI Repository)
 
-The dataset comes from the UCI Machine Learning Repository:
-
-Link: archive.ics.uci.edu/dataset/327/phishing+websites
+ 
